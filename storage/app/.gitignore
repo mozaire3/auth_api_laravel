@@ -1,0 +1,11 @@
+*
+!private/
+!public/
+!.gitignore
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+/.env
+.env.*
+
